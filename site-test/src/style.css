@@ -1,8 +1,28 @@
 body{
-    background-image: url('https://wallpapercave.com/wp/wp3659178.jpg');
+    background-image: url('img/galaxy.jpg');
     font-family: Arial;
 }
 
 .menu{
-    background-color: aliceblue;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.menu li{
+    list-style: none;
 }
